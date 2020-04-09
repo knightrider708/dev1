@@ -15,7 +15,7 @@
     <div>
         <center>
     <p>
-            <asp:Button ID="Button1" runat="server" Text="Get Time" />
+            <asp:Button ID="Button1" runat="server" Text="Get Time Now" />
             <br />
 
 
